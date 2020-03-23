@@ -58,7 +58,7 @@
 .index-part1 .zxxm li:hover i img{transform: rotateY(-180deg);  -webkit-transform: rotateY(-180deg); -moz-transform: rotateY(-180deg); -o-transform: rotateY(-180deg); -ms-transform: rotateY(-180deg); transition:all 0.5s ease 0s;}
 
 /* index-part2 */
-.index-part2{width: 100%; padding: 52px 0 80px 0; background-color: #f6f6f6; overflow-x:hidden;}
+.index-part2{width: 100%; padding: 52px 0 130px 0; background-color: #f6f6f6; overflow-x:hidden;}
 .carousel-container {
     position:relative;
     max-width: 960px;

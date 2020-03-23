@@ -1,6 +1,6 @@
 // ����ͼ�� �Ѽ����� www.lanrentuku.com
 $(function(){
-	var tophtml="<div id=\"izl_rmenu\" class=\"izl-rmenu\"><a href=\"tencent://Message/?Uin=1737339288&websiteName=www.lanrentuku.com=&Menu=yes\" class=\"btn btn-qq\"></a><div class=\"btn btn-wx\"><img class=\"pic\" src=\"/Public/home/images/footer-ewm3.jpg\" \"/></div><div class=\"btn btn-phone\"><div class=\"phone\">0571 - 86603093</div></div><div class=\"btn btn-top\"></div></div>";
+	var tophtml="<div id=\"izl_rmenu\" class=\"izl-rmenu\"><div class=\"btn btn-wx\"><img class=\"pic\" src=\"/Public/home/images/footer-ewm3.jpg\" \"/></div><div class=\"btn btn-phone\"><div class=\"phone\">0571 - 86603093</div></div><div class=\"btn btn-top\"></div></div>";
 	$("#top").html(tophtml);
 	$("#izl_rmenu").each(function(){
 		$(this).find(".btn-wx").mouseenter(function(){
