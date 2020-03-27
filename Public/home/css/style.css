@@ -2,7 +2,6 @@
 .izl-rmenu{position:fixed; right:0;margin-right: 10px; top: 250px; padding-bottom:20px;  z-index:999; }
 .izl-rmenu .btn{width:72px; height:73px; margin-bottom:1px; cursor:pointer; position:relative;}
 .izl-rmenu .btn-qq{background:url(../images/aside-02.png) center center no-repeat; background-color:#1da1f2;}
-.izl-rmenu a.btn-qq, .izl-rmenu a.btn-qq:visited{background:url(../images/aside-01.png) center center no-repeat; background-color:#1da1f2; text-decoration:none; display:block;}
 .izl-rmenu .btn-wx{background:url(../images/aside-02.png) center center no-repeat; background-color:#1da1f2;}
 .izl-rmenu .btn-wx:hover{background-color:#1da1f2;}
 .izl-rmenu .btn-wx .pic{position:absolute; left:-147px; top:-74px; display:none;width:147px;height:147px;}
@@ -58,7 +57,7 @@
 .index-part1 .zxxm li:hover i img{transform: rotateY(-180deg);  -webkit-transform: rotateY(-180deg); -moz-transform: rotateY(-180deg); -o-transform: rotateY(-180deg); -ms-transform: rotateY(-180deg); transition:all 0.5s ease 0s;}
 
 /* index-part2 */
-.index-part2{width: 100%; padding: 52px 0 130px 0; background-color: #f6f6f6; overflow-x:hidden;}
+.index-part2{width: 100%; padding: 52px 0 250px 0; background-color: #f6f6f6; overflow-x:hidden;}
 .carousel-container {
     position:relative;
     max-width: 960px;
@@ -595,7 +594,7 @@ input.btns {
 .footer .footer-nav ul li:last-child p{color: #9e9e9e;margin-bottom: 8px;}
 .footer .lianjie{padding-top: 17px; color: #9e9e9e;}
 .footer .lianjie a{padding: 0 15px;}
-.footer .lianjie a:hover{color: #45a7a9;}
+.footer .lianjie a:hover{color: #1da1f2;}
 .footer .lianjie span{padding-left: 20px;}
 .footer .img2{display: none;}
 .footer .changan{display: none;}
@@ -759,7 +758,7 @@ input.btns {
 .zxs ul li{box-sizing: border-box; padding: 0 30px; width: 100%; border-bottom: 1px solid #f1f1f1; margin-bottom: 20px;}
 .zxs ul li h3{font-size: 16px; margin-bottom: 15px;}
 .zxs ul li p{line-height: 20px;}
-.zxs ul li a:hover{color: #45a7a9;}
+.zxs ul li a:hover{color: #1da1f2;}
 
 .bigbox{max-width: 819px; margin: 35px auto;  background-color: #fff; box-sizing: border-box; padding: 30px 30px 50px 30px;}
 
@@ -768,8 +767,8 @@ input.btns {
 .wz ul li {height: 40px; line-height: 40px; box-sizing: border-box; padding: 0 15px; width: 100% ; border-bottom: 1px solid #f1f1f1;}
 .wz ul li:last-child{border-bottom: none;}
 .wz ul li a{white-space: nowrap;text-overflow: ellipsis; overflow: hidden;display:block;}
-.wz ul li a:hover{color: #45a7a9;}
-.wz ul li em{width: 12px; height: 12px; display:inline-block; position: relative; top: 1px; margin-right: 5px; background-color: #45a7a9;}
+.wz ul li a:hover{color: #1da1f2;}
+.wz ul li em{width: 12px; height: 12px; display:inline-block; position: relative; top: 1px; margin-right: 5px; background-color: #1da1f2;}
 
 .index-part3 .slideTxtBox .bd .nr:nth-child(2) .lx{ width:26%; height:495px;}
 .index-part3 .slideTxtBox .bd .nr:nth-child(2) .pack{ width:65%; height:495px; margin: 15px 0 15px 10px;}
@@ -932,7 +931,7 @@ input.btns {
 
 	.hot{ background-color: #f6f6f6; border:none;}
 	.hot h2{padding-left: 0;}
-    .hot em{width: 18px; height: 18px; background-color: #45a7a9;}
+    .hot em{width: 18px; height: 18px; background-color: #1da1f2;}
 	.zxs{background-color: #f5f5f5;}
 	.zxs h2{padding-left: 0;}
     .zxs ul li{padding: 30px 0;}
